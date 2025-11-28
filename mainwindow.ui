@@ -58,7 +58,7 @@
     <item>
      <widget class="QPushButton" name="pushButton">
       <property name="text">
-       <string>Кнопка CV</string>
+       <string>Кнопка CV 2</string>
       </property>
      </widget>
     </item>
